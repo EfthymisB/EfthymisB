@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/contact-efthymisb.vfx@gmail.com-critical?logo=gmail&logoColor=red)](mailto:efthymisb.vfx@gmail.com) ![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Gumroad-purple?logo=gumroad&logoColor=white)
+
 <!--
 **EfthymisB/EfthymisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

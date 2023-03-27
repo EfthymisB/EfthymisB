@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/contact-efthymisb.vfx@gmail.com-critical?logo=gmail&logoColor=red)](mailto:efthymisb.vfx@gmail.com) [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efthymios-bairaktaris/) [![](https://img.shields.io/badge/Gumroad-purple?logo=gumroad&logoColor=white)](https://efthymisb.gumroad.com/)
+[![](https://img.shields.io/badge/contact-efthymisb.vfx@gmail.com-critical?logo=gmail&logoColor=red)](mailto:efthymisb.vfx@gmail.com) [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efthymios-bairaktaris/) [![](https://img.shields.io/badge/Gumroad-purple?logo=gumroad&logoColor=white)](https://efthymisb.gumroad.com/)  [![](https://img.shields.io/badge/IMDB-yellow?logo=imdb&logoColor=black)](https://www.imdb.com/name/nm13296515/)
 
 <!--
 **EfthymisB/EfthymisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
